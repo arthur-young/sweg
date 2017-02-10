@@ -4,8 +4,8 @@
   * [ ] Stakeholder Analysis -> [google doc](https://docs.google.com/document/d/1ThdDXMoZCpIY7sr0umK5ffcSlPjXbnkTYiPUCqQXnyI/edit)
   * [ ] Personas
 - [ ] **Requirements Planning**
-   * [ ] User Stories
-   * [ ] Product Backlog
+   * [ ] User Stories  -> (?) [Trello](http://trello.com/)
+   * [ ] Product Backlog 
 - [ ] **Project Planning**
   * [ ] Increment plan
   * [ ] Sprint plan for next increment
