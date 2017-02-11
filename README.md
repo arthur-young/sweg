@@ -2,8 +2,8 @@
 
 Repository for COMP2211 Module. 
 
-##Tream Members
-- Hanna Billingset-Dadd (hbd1g15)
+##Team Members
+- Hannah Billingset-Dadd (hbd1g15)
 - Nivesh Modi (nm10g15)
 - Ana-Maria Schintee (as42g15)
 - Aaron Tasker (at10g15)
