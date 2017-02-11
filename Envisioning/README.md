@@ -1,6 +1,6 @@
 # Deliverable 1: Envisioning
 
-- [ ] **User Understanding**
+- [x] **User Understanding**
   * [ ] Stakeholder Analysis -> [google doc](https://docs.google.com/document/d/1ThdDXMoZCpIY7sr0umK5ffcSlPjXbnkTYiPUCqQXnyI/edit)
   * [ ] Personas
 - [ ] **Requirements Planning**
