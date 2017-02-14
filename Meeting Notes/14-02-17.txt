@@ -1,1 +1,5 @@
-TODO
+Spring planning for this increment:
+	Split stories up into sub stories
+	Decided on common themese between those stories e.g. always test
+Completed burndown chart
+Consolidated information into our google docs file
