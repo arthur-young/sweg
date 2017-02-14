@@ -1,15 +1,15 @@
 # Deliverable 1: Envisioning
 
-- [ ] **User Understanding**
-  * [ ] Stakeholder Analysis -> [google doc](https://docs.google.com/document/d/1ThdDXMoZCpIY7sr0umK5ffcSlPjXbnkTYiPUCqQXnyI/edit)
-  * [ ] Personas
-- [ ] **Requirements Planning**
-   * [ ] User Stories  -> (?) [Trello](http://trello.com/)
-   * [ ] Product Backlog 
-- [ ] **Project Planning**
+- [x] **User Understanding**
+  * [x] Stakeholder Analysis: [Google Docs: Stakeholder Analysis](https://docs.google.com/document/d/1ThdDXMoZCpIY7sr0umK5ffcSlPjXbnkTYiPUCqQXnyI/edit#bookmark=id.dmvtu3q4yead)
+  * [x] Personas: [Google Docs: Personas](https://docs.google.com/document/d/1ThdDXMoZCpIY7sr0umK5ffcSlPjXbnkTYiPUCqQXnyI/edit#bookmark=id.rceolie21fvd)
+- [x] **Requirements Planning**: [Trello](http://trello.com/)
+   * [x] User Stories   
+   * [x] Product Backlog 
+- [ ] **Project Planning** 
   * [ ] Increment plan
   * [ ] Sprint plan for next increment
   * [ ] Init burndown chart for next increment
 - [ ] **Project Set-up**
-  * [ ] Risk Analysis
-  * [ ] Summary of agile methods & software tools adapted
+  * [x] Risk Analysis: [Google Docs: Risk Analysis](https://docs.google.com/document/d/1ThdDXMoZCpIY7sr0umK5ffcSlPjXbnkTYiPUCqQXnyI/edit#bookmark=id.o2lpgwsp9fcm)
+  * [ ] Summary of agile methods & software tools adapted: [Google Docs: Summary](https://docs.google.com/document/d/1ThdDXMoZCpIY7sr0umK5ffcSlPjXbnkTYiPUCqQXnyI/edit#bookmark=id.qr8tp84f960b)
