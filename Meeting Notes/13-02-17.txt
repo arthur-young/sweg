@@ -1,0 +1,4 @@
+Reviewed user stories and modified them.
+Identified risks for project and discussed probability and severity of the risks.
+Reviewed personas and modified them as needed. 
+Met with supervisor(<name>) and presented work so far.
